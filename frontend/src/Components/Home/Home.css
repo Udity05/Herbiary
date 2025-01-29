@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.home{
+  width: 100%;
+  min-height: 100vh;
+  background-color: #D8E9A8;
+  display: flex;
+  align-items: center;
+}
+
+.bottom-img{
+  position: absolute; 
+  bottom: 0; 
+  right: 0; 
+  width: 400px; 
+  height: auto; 
+  margin: 10px; 
+  padding-right: 30px;
+}
+
+.image{
+  width: 500px;
+  margin-right: 20px;
+  margin-left: 20px;
+  height: auto;
+}
+
+.content{
+  flex: 1;
+}
+
+.text-1{
+  font-size: 70px;
+  padding-bottom: 50px;
+  color: #4E9F3D;
+  font-family: "Parkinsans", sans-serif;
+}
+
+b{
+  color: #1E5128;
+}
+
+p {
+  width: 70%;
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 30px;
+  font-family: "Parkinsans", sans-serif;
+}
+
+.btn1{
+  background: #4E9F3D;
+  color: #191A19;
+  padding: 10px 15px;
+  border-radius: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-weight: 600;
+  font-family: "Parkinsans", sans-serif;
+  margin-left: 10px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+
+.btn1:hover {
+  background-color: #191A19; 
+  color: #4E9F3D;
+  transform: translateY(-3px);
+}
+

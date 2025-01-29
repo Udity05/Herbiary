@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.find-page {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #D8E9A8;
+  padding-top: 10%;
+}
+
+.find-page h1{
+  font-size: 40px;
+  font-family: "Parkinsans", sans-serif;
+}
+.search-bar {
+  width: 50%;
+  padding: 10px;
+  font-size: 16px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.plant-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.plant-item {
+  width: 30%;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  text-align: left;
+}
+
+.plant-item h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.details-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #4E9F3D;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.details-link:hover {
+  text-decoration: underline;
+}
