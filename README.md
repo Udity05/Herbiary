@@ -52,7 +52,7 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact
 For any questions or feedback, feel free to reach out:
 - **GitHub:** [Udity05](https://github.com/Udity05)
-- **Email:** [banerjeeudity@gmail.com](banerjeeudity@gmail.com)
+- **Email:** [banerjeeudity@gmail.com](mailto:banerjeeudity@gmail.com)
 
 Happy coding! 🌱🚀
 
