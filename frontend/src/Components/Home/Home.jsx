@@ -54,7 +54,7 @@ const Home = () => {
           collection of nature's healing treasures, complete with detailed information on their benefits and uses. Whether
           you're a herbal enthusiast, a wellness seeker, or simply curious, this garden offers a unique journey into holistic
           health. Navigate through vibrant visuals and easy-to-understand guides to unlock the power of ancient remedies. Begin
-          your herbal adventure today and let nature inspire your wellness!
+          your herbal adventure now and let nature inspire your wellness!
         </p>
         <button className="btn1">
           <Link to="/garden">Let's Go</Link>
